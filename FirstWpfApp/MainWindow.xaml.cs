@@ -22,7 +22,6 @@ namespace FirstWpfApp
     {
         public MainWindow()
         {
-            //ппппппппппппппппппппппп
             InitializeComponent();
         }
     }
